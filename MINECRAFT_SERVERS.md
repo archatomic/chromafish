@@ -20,8 +20,9 @@ A casual Java survival server for PC players who want to mod their clients, or P
 If you want proxy voice chat, this is also the server you should connect to.
 
 ### Server Details
+- Server Address - bushwa.chromafish.com
 - Minecraft Java Edition required
-- Version - 1.19.2
+- Version Required - 1.19.2
 - Forge server
 - [Cold Boot Time - 5 minutes](#what-does-on-demand-mean)
 - 2 CPUs, 8gb RAM
@@ -62,6 +63,7 @@ You are now free to connect to the server. [If the server times out when you att
 A casual Bedrock survival server, meant for those of us on consoles, mobile devices, or who prefer a more controlled experience.
 
 ### Server Details
+- Server Address - zounds.chromafish.com
 - Minecraft Bedrock Edition required
 - Crossplay supported (Windows / Console / Mobile, etc.)
 - [Cold Boot Time - 2 minutes](#what-does-on-demand-mean)
