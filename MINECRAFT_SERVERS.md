@@ -166,4 +166,5 @@ The two I go back and forth between are:
 
 ## Other questions?
 [Join the Discord](https://discord.gg/jCY2x4MW) and ask there.
+
 [Follow me on Twitch](https://twitch.tv/thechromafish) for game streams, and to get updates on my WIP indie game, The Collector.
