@@ -8,7 +8,8 @@ I have two [on-demand](#what-does-on-demand-mean) Minecraft servers ready to pla
 1. [Bedrock Edition Multiplayer Server (Zounds)](#zounds)
     - [Connecting](#connecting-to-zounds)
 1. [Frequently Asked Questions](#faq)
-    - [What does an "on-demand" server mean?](#what-does-on-demand-mean)
+    - [What is an "on-demand" server?](#what-does-on-demand-mean)
+    - [What is "cold boot time"?](#what-does-cold-boot-time-mean)
     - [What mods can I install?](#what-other-mods-can-i-install)
     - [How do I make Minecraft better than real life?](#how-do-i-make-minecraft-really-pretty)
     - [My laptop is actually a toaster that I duct-taped to a cat. How should I run my Minecraft streams?](#how-do-i-make-minecraft-really-fast)
@@ -24,7 +25,7 @@ If you want proxy voice chat, this is also the server you should connect to.
 - Minecraft Java Edition required
 - Version Required - 1.19.2
 - Forge server
-- [Cold Boot Time - 5 minutes](#what-does-on-demand-mean)
+- [Cold Boot Time - 5 minutes](#what-does-cold-boot-time-mean)
 - 2 CPUs, 8gb RAM
 
 #### Serverside Mods
@@ -66,7 +67,7 @@ A casual Bedrock survival server, meant for those of us on consoles, mobile devi
 - Server Address - zounds.chromafish.com
 - Minecraft Bedrock Edition required
 - Crossplay supported (Windows / Console / Mobile, etc.)
-- [Cold Boot Time - 2 minutes](#what-does-on-demand-mean)
+- [Cold Boot Time - 2 minutes](#what-does-cold-boot-time-mean)
 - 2 CPUs, 8gb RAM
 
 #### Serverside Add Ons
@@ -83,9 +84,12 @@ You are now free to connect to the server. [If the server times out when you att
 ### What does "On Demand" mean?
 To save on cost, I am not running these servers 24/7. If the server sits with nobody connected to it (for about 20 minutes), it shuts down automatically.
 
-The first time you tries to connect while the server is offline, you will get some kind of a "connection timed out" error. This is normal, and the server will now automatically come back online. The total time this takes is the **cold boot time**.
+The first time you tries to connect while the server is offline, you will get some kind of a "connection timed out" error. This is normal, and the server will now automatically come back online. The total time this takes is the [cold boot time](#what-does-cold-boot-time-mean).
 
 Once a couple of minutes have passed, try again and you should be able to connect just fine!
+
+### What does "Cold Boot Time" mean?
+Because these servers are [on-demand](#what-does-on-demand-mean), they may not be running when you want to connect. This means the server is "Cold" (offline). The "cold boot time" is the time it takes for the server to come online after you attempt to connect the first time.
 
 ### What other mods can I install?
 **Java Edition Only** The answer here is "Try and see," but I've put together a couple of recommendations below, if you want [a really pretty experience](#how-do-i-make-minecraft-really-pretty), or if you are [trying to run Minecraft on a potato](#how-do-i-make-minecraft-really-fast). I've also provided a [list of mods I am currently running](#what-mods-are-you-running-chromafish).
