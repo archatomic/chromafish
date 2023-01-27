@@ -80,11 +80,14 @@ None so far
 
 You are now free to connect to the server. [If the server times out when you attempt to connect, wait 2 minutes and try again.](#what-does-on-demand-mean)
 
+### If you are on XBOX or Switch
+You will require a different method to add / connect the server. [Use this guide](https://apexminecrafthosting.com/how-to-join-a-bedrock-edition-server-on-xbox-switch/) to connect to [BedrockConnect](https://github.com/Pugmatt/BedrockConnect) and you'll add the server in their interface.
+
 ## FAQ
 ### What does "On Demand" mean?
 To save on cost, I am not running these servers 24/7. If the server sits with nobody connected to it (for about 20 minutes), it shuts down automatically.
 
-The first time you tries to connect while the server is offline, you will get some kind of a "connection timed out" error. This is normal, and the server will now automatically come back online. The total time this takes is the [cold boot time](#what-does-cold-boot-time-mean).
+The first time you try to connect while the server is offline, you will get some kind of a "connection timed out" error. This is normal, and the server will now automatically come back online. The total time this takes is the [cold boot time](#what-does-cold-boot-time-mean).
 
 Once a couple of minutes have passed, try again and you should be able to connect just fine!
 
@@ -92,7 +95,7 @@ Once a couple of minutes have passed, try again and you should be able to connec
 Because these servers are [on-demand](#what-does-on-demand-mean), they may not be running when you want to connect. This means the server is "Cold" (offline). The "cold boot time" is the time it takes for the server to come online after you attempt to connect the first time.
 
 ### What other mods can I install?
-**Java Edition Only** The answer here is "Try and see," but I've put together a couple of recommendations below, if you want [a really pretty experience](#how-do-i-make-minecraft-really-pretty), or if you are [trying to run Minecraft on a potato](#how-do-i-make-minecraft-really-fast). I've also provided a [list of mods I am currently running](#what-mods-are-you-running-chromafish).
+**Java Edition Only** The answer here is "Try and see." If you pick a mod that requires a serverside component, the launcher will tell you, so no real risk there. But I've put together a couple of recommendations below, if you want [a really pretty experience](#how-do-i-make-minecraft-really-pretty), or if you are [trying to run Minecraft on a potato](#how-do-i-make-minecraft-really-fast). I've also provided a [list of mods I am currently running](#what-mods-are-you-running-chromafish).
 
 ### How do I make Minecraft really pretty?
 **Java Edition Only** You need shaders, and a mod to run them. I recommend using [Optifine](http://optifine.net/adloadx?f=OptiFine_1.19.2_HD_U_I1.jar). Once you've downloaded the file, open Prism, open the edit panel for your 1.19.2 instance, and drag the jar file you just downloaded into the mod list.
