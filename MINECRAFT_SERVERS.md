@@ -5,8 +5,10 @@ I have two [on-demand](#what-does-on-demand-mean) Minecraft servers ready to pla
 1. [Java Edition Multiplayer Server (Bushwa)](#bushwa)
     - [Connecting](#connecting-to-bushwa---modded)
     - [Using vanilla minecraft](#connecting-to-bushwa---vanilla)
+    - [From Bedrock / Pocket Edition](#if-you-are-on-bedrock--pocket-edition)
 1. [Bedrock Edition Multiplayer Server (Zounds)](#zounds)
     - [Connecting](#connecting-to-zounds)
+    - [On Switch / xbox](#if-you-are-on-xbox-or-switch)
 1. [Frequently Asked Questions](#faq)
     - [What is an "on-demand" server?](#what-does-on-demand-mean)
     - [What is "cold boot time"?](#what-does-cold-boot-time-mean)
@@ -19,6 +21,9 @@ I have two [on-demand](#what-does-on-demand-mean) Minecraft servers ready to pla
 A casual Java survival server for PC players who want to mod their clients, or PC players who don't want to / can't use Bedrock Edition.
 
 If you want proxy voice chat, this is also the server you should connect to.
+
+### NOTE: Whitelisting
+This server is for members of my Discord server only, and is managed through the #minecraft-bushwa channel. When you connect for the first time you'll be given a 5 digit code. Just type `/link THAT_CODE` into the #minecraft-bushwa channel to whitelist yourself, and you'll be free to join and play.
 
 ### Server Details
 - Server Address - bushwa.chromafish.com
@@ -60,6 +65,13 @@ If you prefer to not run any mods or 3rd party software, you can connect to the 
 
 You are now free to connect to the server. [If the server times out when you attempt to connect, wait 5 minutes and try again.](#what-does-on-demand-mean)
 
+### If you are on Bedrock / Pocket Edition
+You can still connect if you also own the Java edition of the game, but you will require a slightly different method to do so.
+
+Use [one of these guides](https://www.geyserconnect.net/) to connect to GeyserConnect and you'll add the server in their interface.
+
+I'm not 'supporting' this version of connecting, so expect to experience bugs and issues. But I'm also not excluding people from connecting this way. As long as what you're doing isn't stopping other players from having fun, feel free to do what you like.
+
 ## Zounds
 A casual Bedrock survival server, meant for those of us on consoles, mobile devices, or who prefer a more controlled experience.
 
@@ -81,7 +93,9 @@ None so far
 You are now free to connect to the server. [If the server times out when you attempt to connect, wait 2 minutes and try again.](#what-does-on-demand-mean)
 
 ### If you are on XBOX or Switch
-You will require a different method to add / connect the server. [Use this guide](https://apexminecrafthosting.com/how-to-join-a-bedrock-edition-server-on-xbox-switch/) to connect to [BedrockConnect](https://github.com/Pugmatt/BedrockConnect) and you'll add the server in their interface.
+There will be no "Add Server" button for you, but there are still options. Use [this guide for xbox](https://www.geyserconnect.net/guide/xbox) or [this guide for switch](https://www.geyserconnect.net/guide/switch) to connect to GeyserConnect and you'll add the server in their interface.
+
+Make sure you select "Bedrock / Geyser server" when you try to connect.
 
 ## FAQ
 ### What does "On Demand" mean?
