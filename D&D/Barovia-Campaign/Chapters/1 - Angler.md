@@ -34,11 +34,33 @@ And as it turns out, all was indeed not what it seemed with these old folk! As t
 
 # Session 2 (Moss, Honey, Shadow Dancer)
 
-![Honey](/D%26D/Barovia-Campaign/Players/honey.png)
-![Moss](/D%26D/Barovia-Campaign/Players/moss.png)
-![Shadow Dancer](/D%26D/Barovia-Campaign/Players/shadow.jpg)
-![Birbig](/D%26D/Barovia-Campaign/Characters/birbig-rockrat.png)
-![Phraen](/D%26D/Barovia-Campaign/Characters/phraen-killjoy.png)
+<p>
+    <img
+        src="/D%26D/Barovia-Campaign/Players/honey.png"
+        width="19%"
+        title="Honey"
+    />
+    <img
+        src="/D%26D/Barovia-Campaign/Players/moss.png"
+        width="19%"
+        title="Moss"
+    />
+    <img
+        src="/D%26D/Barovia-Campaign/Players/shadow.jpg"
+        width="19%"
+        title="Shadow Dancer"
+    />
+    <img
+        src="/D%26D/Barovia-Campaign/Characters/birbig-rockrat.png"
+        width="19%"
+        title="Birbig"
+    />
+    <img
+        src="/D%26D/Barovia-Campaign/Characters/phraen-killjoy.png"
+        width="19%"
+        title="Phraen"
+    />
+</p>
 
 Meanwhile, an unrelated group of adventurers headed north, their carriage driven by a skiddish gnomish woman, Birbig, and accompanied by a half-elf butthole, Phraen. We joined Honey, the goliath, and Moss and Shadow Dancer the halflings as they attempted to beat the oncoming mist into town. They failed. And their driver was taken into the forest, causing the horses to panic and the carriage to careen wildly over the dirt road. Thanks to some quick thinking by the party, they broke the glass in the cart's front-facing window. Honey placed their smallest member, Moss, into the driver's seat to gain control and ultimately stop the cart.
 
