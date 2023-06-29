@@ -70,7 +70,18 @@ Searching through the forest, the party faced many monsters (Phraen bravely, and
 
 # Session 3 (Moss, Honey, Amal)
 
-![Simon](/D%26D/Barovia-Campaign/Characters/simon-uthe.png)
+<p>
+    <img
+        src="/D%26D/Barovia-Campaign/Characters/simon-uthe.png"
+        width="19%"
+        title="Simon"
+    />
+    <img
+        src="/D%26D/Barovia-Campaign/Characters/fisher-price.png"
+        width="19%"
+        title="Fisher Price"
+    />
+</p>
 
 As they continue on the path north into town, Shadow Dancer disappears into the mists, and the rest of the party passes by an abandoned guard post. They rifle diligently through it like a bunch of hungry raccoons. Honey even goes as far as stealing a bear rug and wearing it like a cloak. It does look rad though, and Moss finds a book of elven x human smut, which I think she kept? I don't know it wasn't clear to me.
 
@@ -88,10 +99,28 @@ Between the two people left standing (Honey, and this gnome woman), they drag th
 
 # Session 4
 
-![Vela Dawes](/D%26D/Barovia-Campaign/Characters/vela-dawes.jpg)
-![Saren](/D%26D/Barovia-Campaign/Characters/saren-llendel.png)
-![Brynn Holfwyn](/D%26D/Barovia-Campaign/Characters/brynn-holfwyn.png)
-![Stotter Holfwyn](/D%26D/Barovia-Campaign/Characters/stotter-holfwyn.png)
+<p>
+    <img
+        src="/D%26D/Barovia-Campaign/Characters/vela-dawes.jpg"
+        width="19%"
+        title="Vela Dawes"
+    />
+    <img
+        src="/D%26D/Barovia-Campaign/Characters/saren-llendel.png"
+        width="19%"
+        title="Saren"
+    />
+    <img
+        src="/D%26D/Barovia-Campaign/Characters/brynn-holfwyn.png)"
+        width="19%"
+        title="Brynn Holfwyn"
+    />
+    <img
+        src="/D%26D/Barovia-Campaign/Characters/stotter-holfwyn.png)"
+        width="19%"
+        title="Stotter Holfwyn"
+    />
+</p>
 
 Shadow Dancer lost his travel companions in the fog. As he searches for them, he sees the shadow of... something up ahead. He avoids it, only to find himself at the entrance to the town. He sees his party cleaning up after a great battle.
 
