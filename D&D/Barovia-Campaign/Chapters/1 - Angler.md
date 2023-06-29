@@ -3,28 +3,28 @@
 <p>
     <img
         src="/D%26D/Barovia-Campaign/Players/amal.png"
-        width="25%"
-        caption="Amal"
+        width="20%"
+        alt="Amal"
     />
     <img
         src="/D%26D/Barovia-Campaign/Characters/asher-finnegan.png"
-        width="25%"
-        caption="Asher"
+        width="20%"
+        alt="Asher"
     />
     <img
         src="/D%26D/Barovia-Campaign/Characters/cade-susa.png"
-        width="25%"
-        caption="Cade Susa"
+        width="20%"
+        alt="Cade Susa"
     />
     <img
         src="/D%26D/Barovia-Campaign/Characters/strange-old-woman.png"
-        width="25%"
-        caption="Old Woman"
+        width="20%"
+        alt="Old Woman"
     />
     <img
         src="/D%26D/Barovia-Campaign/Characters/strange-old-man.png"
         width="25%"
-        caption="Old Man"
+        alt="Old Man"
     />
 </p>
 
