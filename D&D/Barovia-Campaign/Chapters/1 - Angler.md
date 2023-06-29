@@ -1,9 +1,23 @@
 # Session 1 (Amal)
+
+![Amal](/D%26D/Barovia-Campaign/Players/amal.png)
+![Asher](/D%26D/Barovia-Campaign/Characters/asher-finnegan.png)
+![Cade Susa](/D%26D/Barovia-Campaign/Characters/cade-susa.png)
+![Old Woman](/D%26D/Barovia-Campaign/Characters/strange-old-woman.png)
+![Old Man](/D%26D/Barovia-Campaign/Characters/strange-old-man.png)
+
 Angler is a small fishing outpost with not a lot going on, but the people there have made it their home. Amal, one of the residents, and a Tiefling, woke up one morning to find that a friend of hers, Cade Susa has gone missing while on a courier job south of town. Amal, along with her friend Asher, decided to leave town in search of him. They found him in the forest with two escorts, a quiet elderly man and an elderly woman with a heavy accent. Suddenly mist rolled in and they were attacked by strange creatures they haven't seen before. Skillfully Amal and her friends dispatch the attackers and escort the elderly couple back to Angler, despite Amal's suspicions that all was not what it seemed with these old folk.
 
 And as it turns out, all was indeed not what it seemed with these old folk! As they entered the Angler's Rest, the elderly man pressed his will into Amal's mind with an otherworldly ease and commanded her to lock herself away, which she happily did for several days.
 
 # Session 2 (Moss, Honey, Shadow Dancer)
+
+![Honey](/D%26D/Barovia-Campaign/Players/honey.png)
+![Moss](/D%26D/Barovia-Campaign/Players/moss.png)
+![Shadow Dancer](/D%26D/Barovia-Campaign/Players/shadow.jpg)
+![Birbig](/D%26D/Barovia-Campaign/Characters/birbig-rockrat.png)
+![Phraen](/D%26D/Barovia-Campaign/Characters/phraen-killjoy.png)
+
 Meanwhile, an unrelated group of adventurers headed north, their carriage driven by a skiddish gnomish woman, Birbig, and accompanied by a half-elf butthole, Phraen. We joined Honey, the goliath, and Moss and Shadow Dancer the halflings as they attempted to beat the oncoming mist into town. They failed. And their driver was taken into the forest, causing the horses to panic and the carriage to careen wildly over the dirt road. Thanks to some quick thinking by the party, they broke the glass in the cart's front-facing window. Honey placed their smallest member, Moss, into the driver's seat to gain control and ultimately stop the cart.
 
 Once stopped Shadow Dancer robs the crap out of Phraen and nobody notices, probably because he dances with shadows.
@@ -11,6 +25,9 @@ Once stopped Shadow Dancer robs the crap out of Phraen and nobody notices, proba
 Searching through the forest, the party faced many monsters (Phraen bravely, and immediately ran away), but none of these creatures stood a chance against the party's might, or their swagger. They rescued their driver, only to discover that Phraen stole their cart, and they would have to make the rest of their trip on foot.
 
 # Session 3 (Moss, Honey, Amal)
+
+![Simon](/D%26D/Barovia-Campaign/Characters/simon-uthe.png)
+
 As they continue on the path north into town, Shadow Dancer disappears into the mists, and the rest of the party passes by an abandoned guard post. They rifle diligently through it like a bunch of hungry raccoons. Honey even goes as far as stealing a bear rug and wearing it like a cloak. It does look rad though, and Moss finds a book of elven x human smut, which I think she kept? I don't know it wasn't clear to me.
 
 Anyway they make their way into town and find the missing cart (the axel is badly damaged and it will need repair), outside of the Angler's rest, where they find Phraen yelling at a small half-orcish child, because of course he is. Honey prevents some child abuse, and Phraen leaves, presumably to find another child to strike (they are easier to fight than spiders, after all). They discover that the child, Simon, is running the inn. His Father and Uncle are both missing. They immediately take advantage of this fact by trading music for lodging, which Simon is happy to do, because he's 7. He also doesn't have keys to any of the rooms, because he's 7.
@@ -26,6 +43,12 @@ Once the battle is over (Honey fucking hacked a giant spider mama into literal r
 Between the two people left standing (Honey, and this gnome woman), they drag the bodies of their unconscious and paralyzed friends back into the safety of the Angler's rest.
 
 # Session 4
+
+![Vela Dawes](/D%26D/Barovia-Campaign/Characters/vela-dawes.jpg)
+![Saren](/D%26D/Barovia-Campaign/Characters/saren-llendel.png)
+![Brynn Holfwyn](/D%26D/Barovia-Campaign/Characters/brynn-holfwyn.png)
+![Stotter Holfwyn](/D%26D/Barovia-Campaign/Characters/brynn-holfwyn.png)
+
 Shadow Dancer lost his travel companions in the fog. As he searches for them, he sees the shadow of... something up ahead. He avoids it, only to find himself at the entrance to the town. He sees his party cleaning up after a great battle.
 
 The party meets Vela Dawes, seemingly the only present guard of this town. She's apprehensive at first, but she helps them take the injured adventurers to the Chapel for medical care. There they meet Saren, a mousey half elf, and Brynn Holfwyn, the religious leader of this town. A sickness has been sweeping through the town, and the chapel has been converted into a temporary infirmary. Brynn helps patch the party up and gives them a place to rest, and in return she tells them that someone has broken into her storeroom and stolen her supply of murkroot blossom.
