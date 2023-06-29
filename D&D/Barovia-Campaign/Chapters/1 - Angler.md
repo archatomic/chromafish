@@ -1,10 +1,10 @@
 # Session 1 (Amal)
 
-<img src="/D%26D/Barovia-Campaign/Players/amal.png">
-<img src="/D%26D/Barovia-Campaign/Characters/asher-finnegan.png">
-![Cade Susa](/D%26D/Barovia-Campaign/Characters/cade-susa.png)
-![Old Woman](/D%26D/Barovia-Campaign/Characters/strange-old-woman.png)
-![Old Man](/D%26D/Barovia-Campaign/Characters/strange-old-man.png)
+<img src="/D%26D/Barovia-Campaign/Players/amal.png" width="25%" caption="Amal"/>
+<img src="/D%26D/Barovia-Campaign/Characters/asher-finnegan.png" width="25%" caption="Asher"/>
+<img src="/D%26D/Barovia-Campaign/Characters/cade-susa.png" width="25%" caption="Cade Susa"/>
+<img src="/D%26D/Barovia-Campaign/Characters/strange-old-woman.png" width="25%" caption="Old Woman"/>
+<img src="/D%26D/Barovia-Campaign/Characters/strange-old-man.png" width="25%" caption="Old Man"/>
 
 Angler is a small fishing outpost with not a lot going on, but the people there have made it their home. Amal, one of the residents, and a Tiefling, woke up one morning to find that a friend of hers, Cade Susa has gone missing while on a courier job south of town. Amal, along with her friend Asher, decided to leave town in search of him. They found him in the forest with two escorts, a quiet elderly man and an elderly woman with a heavy accent. Suddenly mist rolled in and they were attacked by strange creatures they haven't seen before. Skillfully Amal and her friends dispatch the attackers and escort the elderly couple back to Angler, despite Amal's suspicions that all was not what it seemed with these old folk.
 
