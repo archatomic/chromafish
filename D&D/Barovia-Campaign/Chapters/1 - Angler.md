@@ -111,12 +111,12 @@ Between the two people left standing (Honey, and this gnome woman), they drag th
         title="Saren"
     />
     <img
-        src="/D%26D/Barovia-Campaign/Characters/brynn-holfwyn.png)"
+        src="/D%26D/Barovia-Campaign/Characters/brynn-holfwyn.png"
         width="19%"
         title="Brynn Holfwyn"
     />
     <img
-        src="/D%26D/Barovia-Campaign/Characters/stotter-holfwyn.png)"
+        src="/D%26D/Barovia-Campaign/Characters/stotter-holfwyn.png"
         width="19%"
         title="Stotter Holfwyn"
     />
