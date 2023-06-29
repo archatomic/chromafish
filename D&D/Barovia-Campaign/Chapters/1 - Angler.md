@@ -1,7 +1,7 @@
 # Session 1 (Amal)
 
-![Amal](/D%26D/Barovia-Campaign/Players/amal.png)
-![Asher](/D%26D/Barovia-Campaign/Characters/asher-finnegan.png)
+<img src="/D%26D/Barovia-Campaign/Players/amal.png">
+<img src="/D%26D/Barovia-Campaign/Characters/asher-finnegan.png">
 ![Cade Susa](/D%26D/Barovia-Campaign/Characters/cade-susa.png)
 ![Old Woman](/D%26D/Barovia-Campaign/Characters/strange-old-woman.png)
 ![Old Man](/D%26D/Barovia-Campaign/Characters/strange-old-man.png)
@@ -47,7 +47,7 @@ Between the two people left standing (Honey, and this gnome woman), they drag th
 ![Vela Dawes](/D%26D/Barovia-Campaign/Characters/vela-dawes.jpg)
 ![Saren](/D%26D/Barovia-Campaign/Characters/saren-llendel.png)
 ![Brynn Holfwyn](/D%26D/Barovia-Campaign/Characters/brynn-holfwyn.png)
-![Stotter Holfwyn](/D%26D/Barovia-Campaign/Characters/brynn-holfwyn.png)
+![Stotter Holfwyn](/D%26D/Barovia-Campaign/Characters/stotter-holfwyn.png)
 
 Shadow Dancer lost his travel companions in the fog. As he searches for them, he sees the shadow of... something up ahead. He avoids it, only to find himself at the entrance to the town. He sees his party cleaning up after a great battle.
 
