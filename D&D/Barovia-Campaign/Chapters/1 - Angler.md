@@ -144,12 +144,12 @@ Honey fell in battle for the first time, but was revived by Moss (though she rem
 # Session 5
 <p>
     <img
-        src="/D%26D/Barovia-Campaign/Players/goblin-leader.png"
+        src="/D%26D/Barovia-Campaign/Characters/goblin-leader.png"
         width="19%"
         title="The goblin that begged"
     />
     <img
-        src="/D%26D/Barovia-Campaign/Players/tyler-borden.png"
+        src="/D%26D/Barovia-Campaign/Characters/tyler-borden.png"
         width="19%"
         title="Tyler"
     />
@@ -166,7 +166,7 @@ The party rests before the sealed tomb door, and as they do this, Amal begins st
 # Session 6
 <p>
     <img
-        src="/D%26D/Barovia-Campaign/Players/gungar.png"
+        src="/D%26D/Barovia-Campaign/Characters/gungar.png"
         width="19%"
         title="Gungar"
     />
@@ -207,17 +207,17 @@ The party received 3 tinctures in total, and used one on Dawes. Stotter says he 
 
 <p>
     <img
-        src="/D%26D/Barovia-Campaign/Players/merrin-coster.png"
+        src="/D%26D/Barovia-Campaign/Characters/merrin-coster.png"
         width="19%"
         title="Merrin Coster"
     />
     <img
-        src="/D%26D/Barovia-Campaign/Players/overtaken-man.png"
+        src="/D%26D/Barovia-Campaign/Characters/overtaken-man.png"
         width="19%"
         title="Overtaken Man (turned to mist)"
     />
     <img
-        src="/D%26D/Barovia-Campaign/Players/resh-uthe.png"
+        src="/D%26D/Barovia-Campaign/Characters/resh-uthe.png"
         width="19%"
         title="Resh Uthe"
     />
