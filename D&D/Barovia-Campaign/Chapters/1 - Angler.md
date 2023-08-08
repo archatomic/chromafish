@@ -191,7 +191,7 @@ Yes the party was in fact rewarded for their irresponsible negligence through ma
 Whatever the reason, the party stands now, in the tomb of the corpses they have (sometimes literally) defaced, and in the wake of their actions. What will they do now?
 
 
-# Session 6
+# Session 7
 
 After securing some magical items, the party searched the rest of the caverns before deciding that they've gotten what they could get. On the way back to town the party noticed the fog was much thicker and encountered several overtaken townspeople, and a couple of mistweavers, standing in a circle around a cloth covered shape, crumpled on the ground. They recognized one of the townspeople as Tyler, who hours ago was carried unconscious out of the caves by Dawes.
 
@@ -203,7 +203,7 @@ She immediately fainted, then woke up. Looked a little better before barfing sha
 
 The party received 3 tinctures in total, and used one on Dawes. Stotter says he can create more, but will need more samples of blossom to do so. Once provided with some, he can produce more tincture. Claims it takes him about 30 minutes to whip up a batch.
 
-# Session 7
+# Session 8
 
 <p>
     <img
